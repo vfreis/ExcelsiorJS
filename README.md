@@ -1,4 +1,4 @@
 # ExcelsiorJavaScript
 
 Excelsior
-To always improve 'the code'
+, to always improve 'the code'
